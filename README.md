@@ -1,0 +1,2 @@
+Semana 3:
+    Não possuí dúvida alguma. Aprendi variáveis 'if' e 'switch' mas me familiarizei mais com o if, acho mais prático e não pratiquei tanto com o switch, talvez eu tente refazer futuramente os exercicios com o 'switch' por mais que o 'if' caiu muito bem nos exercícios. Não tive tantas dificuldades com as lógicas, consegui fazer os exercícios de casa durante a aula. Espero mais desafios na próxima e tô adorando! 
