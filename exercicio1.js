@@ -16,5 +16,5 @@ if ( semana === 1) {
 } else if (semana === 7) {
     console.log('Sabado')
 } else  {
-    console.log('Nao e um mes')
+    console.log('Não é um dia')
 } 
